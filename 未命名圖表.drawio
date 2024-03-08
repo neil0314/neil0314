@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T07:56:18.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="nCQKB6GLXpjuWvpXN0Hh" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T07:58:56.327Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="KaBztdlSNMfk6u75XPgA" version="24.0.2" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3244.5" dy="1960.5" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -232,7 +232,7 @@
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-225" value="" style="fillColor=#D9EAD3;strokeColor=none" vertex="1" parent="1">
           <mxGeometry x="1007" y="669.5" width="175" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-227" value="Service&#xa;Request" style="rounded=0;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=14;align=center;horizontal=1;verticalAlign=top;glass=0;shadow=0;textShadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-227" value="Software&#xa;Document&#xa;" style="rounded=0;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=14;align=center;horizontal=1;verticalAlign=top;glass=0;shadow=0;textShadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1018.5" y="681" width="149.5" height="157" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-228" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.005;entryY=0.58;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="4MZ_cCC2QS6rHFRi-yMx-206" target="4MZ_cCC2QS6rHFRi-yMx-225">
@@ -255,7 +255,7 @@
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-237" value="" style="fillColor=#D9EAD3;strokeColor=none" vertex="1" parent="1">
           <mxGeometry x="1457" y="452" width="175" height="179" as="geometry" />
         </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-238" value="Company&#xa;" style="rounded=0;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=14;align=center;horizontal=1;verticalAlign=top;glass=0;shadow=0;textShadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-238" value="Product News&#xa;Technology News&#xa;White Paper&#xa;Weintek News" style="rounded=0;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=14;align=center;horizontal=1;verticalAlign=top;glass=0;shadow=0;textShadow=0;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
           <mxGeometry x="1468.5" y="463.5" width="149.5" height="157" as="geometry" />
         </mxCell>
       </root>
