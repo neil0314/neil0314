@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T09:17:37.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="TB2Pi20LZL1jNZ56xL8D" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T09:19:35.140Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="dA1fNKn1mHlzmquQYZZo" version="24.0.2" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="3244.5" dy="1960.5" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3515.5" dy="2091.5" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,10 +244,10 @@
           <mxGeometry x="1680" y="335.5" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-235" value="" style="fillColor=#D9EAD3;strokeColor=none" vertex="1" parent="1">
-          <mxGeometry x="1687.5" y="452" width="175" height="179" as="geometry" />
+          <mxGeometry x="1941" y="456.25" width="175" height="179" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-236" value="Company&#xa;" style="rounded=0;fillColor=#FFFFFF;gradientColor=none;strokeColor=default;fontColor=#000000;fontStyle=0;fontFamily=Tahoma;fontSize=14;align=center;horizontal=1;verticalAlign=top;glass=0;shadow=0;textShadow=0;opacity=40;" vertex="1" parent="1">
-          <mxGeometry x="1699" y="463.5" width="149.5" height="157" as="geometry" />
+          <mxGeometry x="1952.5" y="467.75" width="149.5" height="157" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-237" value="" style="fillColor=#D9EAD3;strokeColor=none" vertex="1" parent="1">
           <mxGeometry x="1457" y="452" width="175" height="179" as="geometry" />
@@ -347,6 +347,15 @@
           <mxGeometry width="80" height="40" relative="1" as="geometry">
             <mxPoint x="290" y="10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-287" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" vertex="1" parent="1">
+          <mxGeometry x="1707.5" y="449" width="152" height="154" as="geometry" />
+        </mxCell>
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-288" value="Company profile" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1718.5" y="460.75" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-289" value="Partners" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="1718.5" y="532.25" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
