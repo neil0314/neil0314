@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T09:21:15.900Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="qQMBnBPaHxAc5JD02S_0" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T09:25:11.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xn8NaW24GXmwzdAQ4qY1" version="24.0.2" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3515.5" dy="2091.5" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -176,7 +176,7 @@
             <mxPoint x="874.6538461538457" y="446" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-203" value="Support" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-203" value="Service support" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="779" y="342" width="190" height="80" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="4MZ_cCC2QS6rHFRi-yMx-204">
@@ -185,7 +185,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-204" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" vertex="1" parent="1">
-          <mxGeometry x="795" y="452" width="152" height="154" as="geometry" />
+          <mxGeometry x="795" y="452" width="152" height="228" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-205" value="FAQ&#xa;Technology Support&#xa; " style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=12;align=center;" vertex="1" parent="1">
           <mxGeometry x="806" y="463.75" width="130" height="60" as="geometry" />
@@ -356,6 +356,9 @@
           <mxGeometry width="80" height="40" relative="1" as="geometry">
             <mxPoint x="359" y="10" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-294" value="Contact Us" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="803" y="606" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
