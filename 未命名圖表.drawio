@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T09:25:11.168Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="xn8NaW24GXmwzdAQ4qY1" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T09:32:23.731Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8krnYHWg785JCuApxAew" version="24.0.2" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3515.5" dy="2091.5" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -274,7 +274,7 @@
           <mxGeometry x="44" y="1867" width="133" height="267" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-248" value="cMT series&lt;br&gt;&lt;br&gt;cMT X series&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;G series&lt;br&gt;&lt;br&gt;iE series&lt;br&gt;&lt;br&gt;iP series&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FFFFFF;fontSize=15;spacing=2;spacingTop=0;spacingBottom=0;spacingLeft=0;labelBackgroundColor=none;labelBorderColor=none;html=1;" vertex="1" parent="1">
-          <mxGeometry x="254" y="1882" width="133" height="161" as="geometry" />
+          <mxGeometry x="256" y="1906" width="133" height="161" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-250" value="HARDWARE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#7eb4dd;textOpacity=50;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="56" y="1912" width="60" height="30" as="geometry" />
@@ -315,19 +315,19 @@
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-276" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Product" style="html=1;shadow=0;dashed=0;fillColor=#23445d;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" vertex="1" parent="1">
           <mxGeometry x="0.5" y="1776" width="836.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-277" value="Technology Support" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#999999;align=center;" vertex="1" parent="4MZ_cCC2QS6rHFRi-yMx-276">
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-277" value="Service support" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#999999;align=center;" vertex="1" parent="4MZ_cCC2QS6rHFRi-yMx-276">
           <mxGeometry width="70" height="40" relative="1" as="geometry">
             <mxPoint x="158" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-279" value="News" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;spacingRight=0;" vertex="1" parent="4MZ_cCC2QS6rHFRi-yMx-276">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="275" y="10" as="offset" />
+            <mxPoint x="261" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-280" value="About Us" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="4MZ_cCC2QS6rHFRi-yMx-276">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="359" y="10" as="offset" />
+            <mxPoint x="346" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-287" value="" style="fillColor=#10739E;strokeColor=none;opacity=30;" vertex="1" parent="1">
@@ -339,26 +339,26 @@
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-289" value="Partners" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="1718.5" y="532.25" width="130" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-290" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Product" style="html=1;shadow=0;dashed=0;fillColor=#23445d;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" vertex="1" parent="1">
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-294" value="Contact Us" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+          <mxGeometry x="803" y="606" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-296" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Product" style="html=1;shadow=0;dashed=0;fillColor=#23445d;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" vertex="1" parent="1">
           <mxGeometry x="1133" y="1778" width="836.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-291" value="Technology Support" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#999999;align=center;" vertex="1" parent="4MZ_cCC2QS6rHFRi-yMx-290">
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-297" value="Service support" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#999999;align=center;" vertex="1" parent="4MZ_cCC2QS6rHFRi-yMx-296">
           <mxGeometry width="70" height="40" relative="1" as="geometry">
             <mxPoint x="158" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-292" value="News" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;spacingRight=0;" vertex="1" parent="4MZ_cCC2QS6rHFRi-yMx-290">
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-298" value="News" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;spacingRight=0;" vertex="1" parent="4MZ_cCC2QS6rHFRi-yMx-296">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="275" y="10" as="offset" />
+            <mxPoint x="261" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-293" value="About Us" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="4MZ_cCC2QS6rHFRi-yMx-290">
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-299" value="About Us" style="fillColor=none;strokeColor=none;fontSize=14;fontColor=#9A9DA0;align=center;" vertex="1" parent="4MZ_cCC2QS6rHFRi-yMx-296">
           <mxGeometry width="80" height="40" relative="1" as="geometry">
-            <mxPoint x="359" y="10" as="offset" />
+            <mxPoint x="346" y="10" as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-294" value="Contact Us" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=1;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
-          <mxGeometry x="803" y="606" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
