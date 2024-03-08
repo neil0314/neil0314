@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-08T07:34:38.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="opN-xJuZd04JXg4MVY7h" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-08T07:47:48.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="uhm7Bef-dp5zKcMxvaJj" version="24.0.2" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="3244.5" dy="1960.5" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -150,8 +150,8 @@
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-191" value="顏色與目錄結構關係說明" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="16" y="-49" width="281.5" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-192" value="Detail - 機種、下載、資料、功能" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="59" y="98.5" width="241.5" height="30" as="geometry" />
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-192" value="Detail類 - 機種規格頁、下載頁等目標功能頁" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="59" y="98.5" width="455" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-196" value="" style="fillColor=#D9EAD3;strokeColor=none" vertex="1" parent="1">
           <mxGeometry x="512" y="702" width="175" height="271" as="geometry" />
