@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-13T08:01:00.082Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ns0ACR8b2tdK09hMvO86" version="24.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-13T09:14:11.321Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="ZBWDd5e8fU8ZBTIexagY" version="24.0.2" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
     <mxGraphModel dx="1997" dy="1186" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -92,7 +92,7 @@
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-167" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="4MZ_cCC2QS6rHFRi-yMx-124" target="4MZ_cCC2QS6rHFRi-yMx-159">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-124" value="IO Module" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
+        <mxCell id="4MZ_cCC2QS6rHFRi-yMx-124" value="IO Modules" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
           <mxGeometry x="137.5" y="539.5" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-129" value="iR&#xa;Couple" style="rounded=1;fillColor=#23445D;gradientColor=none;strokeColor=none;fontColor=#FFFFFF;fontStyle=0;fontFamily=Tahoma;fontSize=14" vertex="1" parent="1">
@@ -156,7 +156,7 @@
           <mxGeometry x="-8.879999999999999" y="87.5" width="241.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-191" value="顏色與目錄結構關係說明" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="-51.88" y="-20" width="281.5" height="30" as="geometry" />
+          <mxGeometry x="-53.88" y="-20" width="281.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4MZ_cCC2QS6rHFRi-yMx-192" value="功能/內容頁&amp;nbsp; - 機種規格頁、下載頁等功能頁" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-5.63" y="127.5" width="455" height="30" as="geometry" />
