@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2024-03-15T09:14:34.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="p2feC0hjGGdFrRYksh-O" version="24.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-15T09:18:55.543Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="HE9PgcqrbQgG6CWRcDsg" version="24.0.6" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="1910" dy="1111" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#f5f5f5" math="0" shadow="0">
+    <mxGraphModel dx="2162" dy="1230" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#f5f5f5" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="xAVW23EpEt7qXA6fyUP3-776" value="" style="fillColor=#D9EAD3;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;textOpacity=30;opacity=50;" vertex="1" parent="1">
+          <mxGeometry x="1143.12" y="2498" width="588.75" height="803" as="geometry" />
+        </mxCell>
         <mxCell id="xAVW23EpEt7qXA6fyUP3-634" value="" style="fillColor=#D9EAD3;strokeColor=none;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;textOpacity=30;opacity=50;" vertex="1" parent="1">
           <mxGeometry x="1800" y="2498" width="588.75" height="656" as="geometry" />
         </mxCell>
@@ -1609,7 +1612,7 @@
         <mxCell id="xAVW23EpEt7qXA6fyUP3-677" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;https://www.weintek.com/url/product...&lt;/font&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xAVW23EpEt7qXA6fyUP3-754" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
+        <mxCell id="xAVW23EpEt7qXA6fyUP3-754" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Series name&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="369" y="251.5" width="156" height="235" as="geometry" />
         </mxCell>
         <mxCell id="xAVW23EpEt7qXA6fyUP3-755" value="Last updated 3 mins ago" style="html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#DFDFDF;fontColor=#6C767D;resizeWidth=1;fontSize=10;align=left;spacing=20;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-754">
@@ -1620,7 +1623,7 @@
         <mxCell id="xAVW23EpEt7qXA6fyUP3-750" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.corner_round_rect;dx=2;flipH=1;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=10;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="368" y="252.5" width="156" height="129.5" as="geometry" />
         </mxCell>
-        <mxCell id="xAVW23EpEt7qXA6fyUP3-759" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
+        <mxCell id="xAVW23EpEt7qXA6fyUP3-759" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Series name&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="201.5" y="249.5" width="156" height="235" as="geometry" />
         </mxCell>
         <mxCell id="xAVW23EpEt7qXA6fyUP3-760" value="Last updated 3 mins ago" style="html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#DFDFDF;fontColor=#6C767D;resizeWidth=1;fontSize=10;align=left;spacing=20;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-759">
@@ -1631,7 +1634,7 @@
         <mxCell id="xAVW23EpEt7qXA6fyUP3-761" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.corner_round_rect;dx=2;flipH=1;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=10;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="200.5" y="250.5" width="156" height="129.5" as="geometry" />
         </mxCell>
-        <mxCell id="xAVW23EpEt7qXA6fyUP3-762" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
+        <mxCell id="xAVW23EpEt7qXA6fyUP3-762" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Series name&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="36" y="250.5" width="156" height="235" as="geometry" />
         </mxCell>
         <mxCell id="xAVW23EpEt7qXA6fyUP3-763" value="Last updated 3 mins ago" style="html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#DFDFDF;fontColor=#6C767D;resizeWidth=1;fontSize=10;align=left;spacing=20;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-762">
@@ -1642,7 +1645,7 @@
         <mxCell id="xAVW23EpEt7qXA6fyUP3-764" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.corner_round_rect;dx=2;flipH=1;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=10;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="35" y="251.5" width="156" height="129.5" as="geometry" />
         </mxCell>
-        <mxCell id="xAVW23EpEt7qXA6fyUP3-765" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
+        <mxCell id="xAVW23EpEt7qXA6fyUP3-765" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Series name&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="370" y="500.5" width="156" height="235" as="geometry" />
         </mxCell>
         <mxCell id="xAVW23EpEt7qXA6fyUP3-766" value="Last updated 3 mins ago" style="html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#DFDFDF;fontColor=#6C767D;resizeWidth=1;fontSize=10;align=left;spacing=20;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-765">
@@ -1653,7 +1656,7 @@
         <mxCell id="xAVW23EpEt7qXA6fyUP3-767" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.corner_round_rect;dx=2;flipH=1;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=10;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="369" y="501.5" width="156" height="129.5" as="geometry" />
         </mxCell>
-        <mxCell id="xAVW23EpEt7qXA6fyUP3-768" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
+        <mxCell id="xAVW23EpEt7qXA6fyUP3-768" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Series name&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="202.5" y="498.5" width="156" height="235" as="geometry" />
         </mxCell>
         <mxCell id="xAVW23EpEt7qXA6fyUP3-769" value="Last updated 3 mins ago" style="html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#DFDFDF;fontColor=#6C767D;resizeWidth=1;fontSize=10;align=left;spacing=20;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-768">
@@ -1664,7 +1667,7 @@
         <mxCell id="xAVW23EpEt7qXA6fyUP3-770" value="Image cap" style="html=1;shadow=0;dashed=0;shape=mxgraph.basic.corner_round_rect;dx=2;flipH=1;perimeter=none;whiteSpace=wrap;fillColor=#868E96;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=10;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="201.5" y="499.5" width="156" height="129.5" as="geometry" />
         </mxCell>
-        <mxCell id="xAVW23EpEt7qXA6fyUP3-771" value="&lt;b style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;Card title&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
+        <mxCell id="xAVW23EpEt7qXA6fyUP3-771" value="&lt;b&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;Series name&lt;/font&gt;&lt;/b&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;&lt;br style=&quot;font-size: 10px;&quot;&gt;This card has supporting text below as a natural lead-in to additional content." style="html=1;shadow=0;dashed=0;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;spacingBottom=0;fontSize=10;spacingTop=107;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-675">
           <mxGeometry x="37" y="499.5" width="156" height="235" as="geometry" />
         </mxCell>
         <mxCell id="xAVW23EpEt7qXA6fyUP3-772" value="Last updated 3 mins ago" style="html=1;shadow=0;dashed=0;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#DFDFDF;fontColor=#6C767D;resizeWidth=1;fontSize=10;align=left;spacing=20;" vertex="1" parent="xAVW23EpEt7qXA6fyUP3-771">
