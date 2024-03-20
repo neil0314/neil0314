@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T03:48:57.705Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="1JUXx7EAt08f5YEPmJ01" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T05:21:27.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="f4-TlkVcHlzKG7NUtaMY" version="24.0.7" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="2258" dy="1198" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#f5f5f5" math="0" shadow="0">
+    <mxGraphModel dx="5975" dy="2795" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#f5f5f5" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1656,7 +1656,7 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xAVW23EpEt7qXA6fyUP3-836" value="&lt;br style=&quot;font-size: 14px&quot;&gt;Some quick example text to build on the card title and make up the bulk of the card&#39;s content." style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#F8F9FA;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="xAVW23EpEt7qXA6fyUP3-815" vertex="1">
-          <mxGeometry x="1.75" y="111.75" width="660.25" height="98.5" as="geometry" />
+          <mxGeometry x="1.75" y="111.75" width="660.25" height="125.25" as="geometry" />
         </mxCell>
         <mxCell id="xAVW23EpEt7qXA6fyUP3-837" value="&lt;font color=&quot;#000000&quot; style=&quot;font-size: 20px;&quot;&gt;Product and Ressouce Download&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#F8F9FA;fontColor=#6C767D;resizeWidth=1;fontSize=18;align=left;spacing=20;" parent="xAVW23EpEt7qXA6fyUP3-836" vertex="1">
           <mxGeometry width="660.25" height="33" relative="1" as="geometry" />
@@ -1799,6 +1799,15 @@
               <mxPoint x="3723" y="2495" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Gbavw4CxI_MjVtrJEd-n-123" value="Fuzzy search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=NE;callStyle=line;fontSize=17;fontColor=#666666;align=right;verticalAlign=top;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1564" y="3136" width="165" height="83" as="geometry" />
+        </mxCell>
+        <mxCell id="Gbavw4CxI_MjVtrJEd-n-124" value="Filter files" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=SW;callStyle=line;fontSize=17;fontColor=#666666;align=left;verticalAlign=bottom;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="809" y="3339" width="162" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Gbavw4CxI_MjVtrJEd-n-128" value="Result" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.callout;linkText=;textSize=17;textColor=#666666;callDir=NE;callStyle=line;fontSize=17;fontColor=#666666;align=right;verticalAlign=top;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="1561" y="3256" width="165" height="83" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
