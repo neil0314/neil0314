@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-21T08:50:00.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="zTSJN1SbLSwVkcIaG9uU" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-21T08:58:47.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="8MNPlEAx3tki-bIs0VG6" version="24.0.7" type="github">
   <diagram name="Page-1" id="2c0d36ab-eaac-3732-788b-9136903baeff">
-    <mxGraphModel dx="4788" dy="1740" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#f5f5f5" math="0" shadow="0">
+    <mxGraphModel dx="3858" dy="1293" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="0" pageScale="1.5" pageWidth="1169" pageHeight="827" background="#f5f5f5" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1755,7 +1755,7 @@
           <mxGeometry x="1561" y="3256" width="165" height="83" as="geometry" />
         </mxCell>
         <mxCell id="Gbavw4CxI_MjVtrJEd-n-202" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="-1208" y="3809" width="986" height="1541" as="geometry" />
+          <mxGeometry x="-1208" y="3809" width="987.5" height="1541" as="geometry" />
         </mxCell>
         <mxCell id="Gbavw4CxI_MjVtrJEd-n-288" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F7F7F7;" vertex="1" parent="Gbavw4CxI_MjVtrJEd-n-202">
           <mxGeometry x="3" y="1254" width="982" height="287" as="geometry" />
@@ -1767,7 +1767,7 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Gbavw4CxI_MjVtrJEd-n-205" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.navigation.coverFlow;strokeColor=#999999;" vertex="1" parent="Gbavw4CxI_MjVtrJEd-n-202">
-          <mxGeometry x="-1.5" y="186" width="989" height="283" as="geometry" />
+          <mxGeometry x="-3" y="186" width="990.5" height="283" as="geometry" />
         </mxCell>
         <mxCell id="Gbavw4CxI_MjVtrJEd-n-206" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;&lt;font style=&quot;font-size: 15px;&quot;&gt;Product&lt;/font&gt;" style="html=1;shadow=0;dashed=0;fillColor=#23445d;strokeColor=none;fontSize=16;fontColor=#ffffff;align=left;spacing=15;" vertex="1" parent="Gbavw4CxI_MjVtrJEd-n-202">
           <mxGeometry y="110" width="986" height="72.05000000000004" as="geometry" />
