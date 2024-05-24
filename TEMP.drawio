@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-24T05:38:22.273Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="jldzh04pivTKoiAy5KU-" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-24T05:40:19.154Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TntyMqZmxAYyorntMfon" version="24.4.4" type="github">
   <diagram name="第1頁" id="OyiMAmMOHUge5wi8I17e">
     <mxGraphModel dx="3603" dy="-6038" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -208,7 +208,7 @@
           <mxGeometry x="256.5" y="552.5" width="189" height="32" as="geometry" />
         </mxCell>
         <mxCell id="WVwV5zhWrvc61_-DkQyH-184" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=14;fontSize=14;" vertex="1" parent="WVwV5zhWrvc61_-DkQyH-78">
-          <mxGeometry y="981" width="1070" height="369" as="geometry" />
+          <mxGeometry x="1" y="981" width="1070" height="369" as="geometry" />
         </mxCell>
         <mxCell id="WVwV5zhWrvc61_-DkQyH-185" value="&lt;font color=&quot;#666666&quot;&gt;cMT X series image&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#666666&quot;&gt;(Basic / Standard / Advanced / Headless)&lt;/font&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.bottomButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#E6E6E6;strokeColor=none;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="WVwV5zhWrvc61_-DkQyH-184">
           <mxGeometry y="1" width="1070" height="299" relative="1" as="geometry">
