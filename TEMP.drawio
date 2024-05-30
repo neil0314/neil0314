@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T08:41:39.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ndjbiz4mezIi6yJon9nb" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T08:42:07.613Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fidQUvxZV42H3djFVfoF" version="24.4.10" type="github">
   <diagram name="第1頁" id="OyiMAmMOHUge5wi8I17e">
     <mxGraphModel dx="1677" dy="-6388" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -230,7 +230,7 @@
         <mxCell id="CqsW64jcHCcEkueAEUKj-122" value="User Manual" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="CqsW64jcHCcEkueAEUKj-5" vertex="1">
           <mxGeometry x="19.466915887850465" y="111.99999999999987" width="99.72336448598129" height="83.2799999999999" as="geometry" />
         </mxCell>
-        <mxCell id="CqsW64jcHCcEkueAEUKj-123" value="EasyBuilder Pro" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="CqsW64jcHCcEkueAEUKj-5" vertex="1">
+        <mxCell id="CqsW64jcHCcEkueAEUKj-123" value="SoftBuilder Pro" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="CqsW64jcHCcEkueAEUKj-5" vertex="1">
           <mxGeometry x="125.2093457943925" y="21.679999999999975" width="99.72336448598129" height="83.8199999999999" as="geometry" />
         </mxCell>
         <mxCell id="CqsW64jcHCcEkueAEUKj-124" value="&lt;font color=&quot;#999999&quot;&gt;PLC Manual&lt;/font&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="CqsW64jcHCcEkueAEUKj-5" vertex="1">
