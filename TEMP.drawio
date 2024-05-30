@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T08:17:14.992Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="sysZ57WiFmdlpz4LIeET" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T08:41:39.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ndjbiz4mezIi6yJon9nb" version="24.4.10" type="github">
   <diagram name="第1頁" id="OyiMAmMOHUge5wi8I17e">
     <mxGraphModel dx="1677" dy="-6388" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -224,7 +224,7 @@
         <mxCell id="CqsW64jcHCcEkueAEUKj-5" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#F8F9FA;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="CqsW64jcHCcEkueAEUKj-1" vertex="1">
           <mxGeometry x="66.6637089618456" y="129.99999999999986" width="277.9059449866903" height="214.72999999999976" as="geometry" />
         </mxCell>
-        <mxCell id="CqsW64jcHCcEkueAEUKj-9" value="&lt;b style=&quot;color: rgb(108, 118, 125); font-size: 13px;&quot;&gt;HMI screen editor&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#CCCCCC;fontColor=#1A1A1A;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=13;spacing=5;" parent="CqsW64jcHCcEkueAEUKj-5" vertex="1">
+        <mxCell id="CqsW64jcHCcEkueAEUKj-9" value="&lt;b style=&quot;color: rgb(108, 118, 125); font-size: 13px;&quot;&gt;HXX screen editor&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#CCCCCC;fontColor=#1A1A1A;whiteSpace=wrap;align=left;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=13;spacing=5;" parent="CqsW64jcHCcEkueAEUKj-5" vertex="1">
           <mxGeometry x="19.295327102803736" y="20.199999999999978" width="100.73271028037382" height="83.2799999999999" as="geometry" />
         </mxCell>
         <mxCell id="CqsW64jcHCcEkueAEUKj-122" value="User Manual" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" parent="CqsW64jcHCcEkueAEUKj-5" vertex="1">
