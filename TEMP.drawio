@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T09:38:43.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GTBbWyupycwCEXgmhkTd" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T09:45:43.190Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="x8rVj02j77veAQGMvAwl" version="24.4.10" type="github">
   <diagram name="第1頁" id="OyiMAmMOHUge5wi8I17e">
-    <mxGraphModel dx="1417" dy="-6230" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="-6368" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -761,11 +761,38 @@
         <mxCell id="bI9pgnfDp93b7RxcfX7m-175" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;探索我們所提供的HMI&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;專業編輯工具：輕鬆設計觸摸屏介面、支援廣泛PLC及其他設備通訊連接、易於整合各種物聯網資料的方法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
           <mxGeometry x="152.21" y="90" width="900" height="98" as="geometry" />
         </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-177" value="User Manual" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="360" y="250" width="120" height="100" as="geometry" />
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-179" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;HMI編輯軟體&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="160" y="170" width="137.79" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-178" value="PLC Manual" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="490" y="250" width="120" height="100" as="geometry" />
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-180" value="&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;操作文件&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="308.39" y="169.99999999999943" width="137.79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-181" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;PLC&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;通訊文件&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="308.39" y="248.36" width="151.61" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-182" value="&lt;span style=&quot;color: rgb(153, 153, 153); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;User Manual&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="308.39" y="196.36" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-183" value="&lt;span style=&quot;color: rgb(153, 153, 153); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;PLC Manual&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="313.39" y="278.36" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-184" value="&lt;span style=&quot;color: rgb(153, 153, 153); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;EasyBuilder Pro&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="160" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-185" value="&lt;span style=&quot;color: rgb(153, 153, 153); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;AWS&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="480" y="196.36000000000058" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-186" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;物聯網通訊&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="477.3" y="170" width="137.79" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-187" value="&#xa;&lt;span style=&quot;color: rgb(153, 153, 153); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Sparkug B&lt;/span&gt;&#xa;&#xa;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="480.14" y="230" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-188" value="&lt;span style=&quot;color: rgb(153, 153, 153); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;Azure&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="480" y="217.36000000000058" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-189" value="&lt;span style=&quot;color: rgb(153, 153, 153); font-family: Helvetica; font-size: 14px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 700; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;SQL&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="480" y="270.00000000000057" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-173" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;值得信賴的品質&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="3680" y="8940" width="240" height="110" as="geometry" />
