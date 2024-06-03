@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T08:53:16.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BQgmTMy1qvOVCjYxBbvm" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T09:20:19.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zKIQJfQfTeBWIRgpwumK" version="24.4.10" type="github">
   <diagram name="第1頁" id="OyiMAmMOHUge5wi8I17e">
-    <mxGraphModel dx="2834" dy="-5608" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1417" dy="-6230" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -612,29 +612,6 @@
         <mxCell id="bI9pgnfDp93b7RxcfX7m-100" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BstrokeColor%3Dnone%3BfillColor%3D%23EDEDED%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22-1096.25%22%20y%3D%227402%22%20width%3D%221068.25%22%20height%3D%22441%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#EDEDED;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-87">
           <mxGeometry x="1.75" y="190" width="1078.25" height="441" as="geometry" />
         </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-101" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#F7F7F7;fontColor=#000000;align=left;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-87">
-          <mxGeometry x="1" y="1008" width="1079" height="379" as="geometry" />
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-102" value="&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;br style=&quot;color: rgb(128, 128, 128); font-size: 14px;&quot;&gt;&lt;/div&gt;" style="perimeter=none;html=1;whiteSpace=wrap;fillColor=none;strokeColor=none;resizeWidth=1;verticalAlign=top;align=left;spacing=20;spacingTop=29;fontSize=14;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-101">
-          <mxGeometry width="1079" height="301" relative="1" as="geometry">
-            <mxPoint y="56" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-103" value="" style="group" vertex="1" connectable="0" parent="bI9pgnfDp93b7RxcfX7m-101">
-          <mxGeometry x="131.09345794392524" y="103.5" width="897.4859813084113" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-104" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial; color: rgb(128, 128, 128); font-size: 16px;&quot;&gt;20240527&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;&quot;&gt;cMT2058XH: New 4.3&quot; cMT X Standard HMI&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot; style=&quot;font-size: 18px;&quot;&gt;Tailored for IIoT scenarios, Weintek’s cMT X Smart HMI has been providing reliable smart monitoring&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeColor=none;fillColor=none;fontColor=#000000;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=2;fontSize=14;verticalAlign=top;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-103">
-          <mxGeometry x="490.2996168224299" y="6.42" width="389.7811869158879" height="213.58" as="geometry" />
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-105" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(128, 128, 128); background-color: initial; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;News&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 25px;&quot;&gt;Latest Updates&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-101">
-          <mxGeometry x="131.09345794392524" y="38" width="278.3214953271028" height="65.5" as="geometry" />
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-106" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a1a1a&quot;&gt;Latest news image&lt;/font&gt;" style="strokeColor=none;html=1;whiteSpace=wrap;fillColor=#EDEDED;fontColor=#DEE2E6;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-101">
-          <mxGeometry x="131.09345794392524" y="103.5" width="463.8691588785047" height="230" as="geometry" />
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-107" value="Read more" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#B3B3B3;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-101">
-          <mxGeometry x="897.4859813084112" y="321.5" width="100.84112149532712" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-108" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;strokeColor=#808080;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-87">
           <mxGeometry x="440" y="584.5" width="240" height="7" as="geometry" />
         </mxCell>
@@ -744,7 +721,7 @@
           <mxGeometry x="688.4794444444443" y="172" width="13.969148148148147" height="14" as="geometry" />
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-166" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#F7F7F7;fontColor=#000000;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-87">
-          <mxGeometry x="2" y="1740" width="1080" height="502" as="geometry" />
+          <mxGeometry x="1" y="1740" width="1080" height="502" as="geometry" />
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-167" value="&lt;h5 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 7px; font: italic 20px Lora, serif; color: rgb(23, 43, 86); letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;span style=&quot;color: rgb(134, 134, 134); font-family: Myriad, Arial, sans-serif, &amp;quot;Microsoft Jhenghei&amp;quot;, 微軟正黑體; font-size: 19px; text-align: center;&quot;&gt;Global leading HMI manufacture&lt;/span&gt;&lt;/h5&gt;&lt;h3 style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 45px; font: 300 35px / 45px Poppins, sans-serif; color: rgb(23, 43, 86); position: relative; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;30 years of relentless pursuit of excellence — Committed to providing high-quality products.&lt;/h3&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 25px; font: 400 16px / 26px &amp;quot;Open Sans&amp;quot;, sans-serif; color: rgb(121, 121, 121); letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 25px; font: 400 16px / 26px &amp;quot;Open Sans&amp;quot;, sans-serif; color: rgb(121, 121, 121); letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnolo-gy immersion along&amp;nbsp;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-166">
           <mxGeometry x="518" y="21.996210350584306" width="500" height="310.08347245409016" as="geometry" />
@@ -761,46 +738,66 @@
         <mxCell id="bI9pgnfDp93b7RxcfX7m-171" value="&lt;span style=&quot;color: rgb(179, 179, 179); font-size: 31px;&quot;&gt;Image&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#EDEDED;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-166">
           <mxGeometry x="290" y="77" width="190" height="161" as="geometry" />
         </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-173" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;值得信賴的品質&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="3680" y="8940" width="240" height="110" as="geometry" />
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-174" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;絕佳HMI圖控編輯與雲端數據管理解決方案&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3610.17" y="9600" width="260" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-113" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="2460" y="8610" width="1080" height="363.28" as="geometry" />
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-113" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-87">
+          <mxGeometry y="1000" width="1080" height="363.28" as="geometry" />
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-114" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;strokeColor=inherit;fillColor=#F7F7F7;rSize=5;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=center;spacing=20;fontSize=14;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
           <mxGeometry width="1079.9999999999998" height="10" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-115" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="perimeter=none;html=1;whiteSpace=wrap;fillColor=none;strokeColor=none;resizeWidth=1;verticalAlign=top;align=center;spacing=20;spacingTop=-10;fontSize=14;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
           <mxGeometry width="1024.4188110026619" height="48" relative="1" as="geometry">
-            <mxPoint y="40" as="offset" />
+            <mxPoint x="21" y="40" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-116" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#808080&quot;&gt;&lt;span style=&quot;font-size: 30px;&quot;&gt;&quot;Explore our application core software&quot;&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontColor=default;labelBackgroundColor=none;align=left;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="120.61" y="32" width="838.78" height="38.09" as="geometry" />
+          <mxGeometry x="141.61" y="32" width="838.78" height="38.09" as="geometry" />
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-117" value="" style="shape=line;html=1;shadow=0;dashed=0;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;spacingTop=10;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="131.21495327102804" y="79.99999999999991" width="755.8485981308411" height="3.699999999999996" as="geometry" />
+          <mxGeometry x="152.21495327102804" y="79.99999999999991" width="755.8485981308411" height="3.699999999999996" as="geometry" />
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-124" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#F8F9FA;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=center;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="316.18146597119136" y="129.99999999999986" width="277.9059449866903" height="214.72999999999976" as="geometry" />
+          <mxGeometry x="337.18146597119136" y="129.99999999999986" width="277.9059449866903" height="214.72999999999976" as="geometry" />
         </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-131" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#F8F9FA;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=center;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="679.5459519524998" y="129.99999999999986" width="312.8933003839487" height="233.28000000000011" as="geometry" />
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-175" value="&lt;div&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;探索HMI應用編輯軟體、易於使用的&lt;/font&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;介面設計工具及強大的&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;設備通訊工具&lt;/span&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="131.21" y="102" width="320" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-176" value="&lt;font face=&quot;Helvetica&quot; color=&quot;#1a1a1a&quot; style=&quot;font-size: 18px;&quot;&gt;整合案場設備數據並進行資料量測分析的專業平台&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="580.38" y="102" width="359.62" height="48" as="geometry" />
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-175" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;輕鬆的設計觸模屏介面工具、支援廣泛PLC及其他設備通訊連接、易於整合各式物聯網資料方法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="152.21" y="102" width="827.79" height="98" as="geometry" />
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-121" value="EasyBuilder Pro" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="130.38" y="162" width="299.62" height="168" as="geometry" />
+          <mxGeometry x="152.21" y="140" width="317.79" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-125" value="&lt;b style=&quot;color: rgb(108, 118, 125);&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Weincloud&lt;/font&gt;&lt;/b&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#CCCCCC;fontColor=#1A1A1A;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="580.38" y="162" width="329.62" height="168" as="geometry" />
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-177" value="User Manual" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="490" y="140" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-178" value="PLC Manual" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="490" y="250" width="120" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-173" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;值得信賴的品質&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="3680" y="8940" width="240" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-174" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;絕佳HMI圖控編輯與雲端數據管理解決方案&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3800" y="9600" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-101" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#F7F7F7;fontColor=#000000;align=left;" vertex="1" parent="1">
+          <mxGeometry x="2461" y="8590" width="1079" height="379" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-102" value="&lt;div style=&quot;font-size: 26px;&quot;&gt;&lt;br style=&quot;color: rgb(128, 128, 128); font-size: 14px;&quot;&gt;&lt;/div&gt;" style="perimeter=none;html=1;whiteSpace=wrap;fillColor=none;strokeColor=none;resizeWidth=1;verticalAlign=top;align=left;spacing=20;spacingTop=29;fontSize=14;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-101">
+          <mxGeometry width="1079" height="301" relative="1" as="geometry">
+            <mxPoint y="56" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-103" value="" style="group" vertex="1" connectable="0" parent="bI9pgnfDp93b7RxcfX7m-101">
+          <mxGeometry x="131.09345794392524" y="103.5" width="897.4859813084113" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-104" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;i style=&quot;background-color: initial; color: rgb(128, 128, 128); font-size: 16px;&quot;&gt;20240527&lt;/i&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 19px;&quot; color=&quot;#1a1a1a&quot;&gt;&lt;span style=&quot;&quot;&gt;cMT2058XH: New 4.3&quot; cMT X Standard HMI&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot; style=&quot;font-size: 18px;&quot;&gt;Tailored for IIoT scenarios, Weintek’s cMT X Smart HMI has been providing reliable smart monitoring&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#808080&quot; style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="strokeColor=none;fillColor=none;fontColor=#000000;perimeter=none;whiteSpace=wrap;resizeWidth=1;align=left;spacing=2;fontSize=14;verticalAlign=top;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-103">
+          <mxGeometry x="490.2996168224299" y="6.42" width="389.7811869158879" height="213.58" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-105" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;span style=&quot;color: rgb(128, 128, 128); background-color: initial; font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 38px;&quot;&gt;News&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;font size=&quot;1&quot; style=&quot;&quot; color=&quot;#cccccc&quot;&gt;&lt;span style=&quot;font-weight: 400; font-size: 25px;&quot;&gt;Latest Updates&lt;/span&gt;&lt;/font&gt;&lt;/h1&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-101">
+          <mxGeometry x="131.09345794392524" y="38" width="278.3214953271028" height="65.5" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-106" value="&lt;font style=&quot;font-size: 15px;&quot; color=&quot;#1a1a1a&quot;&gt;Latest news image&lt;/font&gt;" style="strokeColor=none;html=1;whiteSpace=wrap;fillColor=#EDEDED;fontColor=#DEE2E6;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-101">
+          <mxGeometry x="131.09345794392524" y="103.5" width="463.8691588785047" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-107" value="Read more" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#B3B3B3;strokeColor=none;align=center;spacing=15;fontSize=14;fontColor=#ffffff;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-101">
+          <mxGeometry x="897.4859813084112" y="321.5" width="100.84112149532712" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
