@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T09:20:19.351Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="zKIQJfQfTeBWIRgpwumK" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T09:38:07.404Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="WjZOFmHuhE_26QL5VwE-" version="24.4.10" type="github">
   <diagram name="第1頁" id="OyiMAmMOHUge5wi8I17e">
     <mxGraphModel dx="1417" dy="-6230" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -758,14 +758,11 @@
         <mxCell id="bI9pgnfDp93b7RxcfX7m-124" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#F8F9FA;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=center;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
           <mxGeometry x="337.18146597119136" y="129.99999999999986" width="277.9059449866903" height="214.72999999999976" as="geometry" />
         </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-175" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;輕鬆的設計觸模屏介面工具、支援廣泛PLC及其他設備通訊連接、易於整合各式物聯網資料方法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="152.21" y="102" width="827.79" height="98" as="geometry" />
-        </mxCell>
-        <mxCell id="bI9pgnfDp93b7RxcfX7m-121" value="EasyBuilder Pro" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="152.21" y="140" width="317.79" height="210" as="geometry" />
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-175" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;探索我們所提供的HMI&lt;/span&gt;&lt;span style=&quot;font-size: 18px; background-color: initial;&quot;&gt;專業編輯工具：輕鬆設計觸摸屏介面、支援廣泛PLC及其他設備通訊連接、易於整合各種物聯網資料的方法&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
+          <mxGeometry x="152.21" y="90" width="900" height="98" as="geometry" />
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-177" value="User Manual" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
-          <mxGeometry x="490" y="140" width="120" height="100" as="geometry" />
+          <mxGeometry x="360" y="250" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-178" value="PLC Manual" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#E6E6E6;fontColor=#999999;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=5;" vertex="1" parent="bI9pgnfDp93b7RxcfX7m-113">
           <mxGeometry x="490" y="250" width="120" height="100" as="geometry" />
