@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T03:48:19.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="jU0AaaCUpUOc8WqkVQ1M" version="24.4.10" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T03:51:38.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="aOfEAaf5rfiuY1WDKfCx" version="24.4.10" type="github">
   <diagram name="第1頁" id="OyiMAmMOHUge5wi8I17e">
     <mxGraphModel dx="1635" dy="-6016" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -852,6 +852,9 @@
         </mxCell>
         <mxCell id="bI9pgnfDp93b7RxcfX7m-229" value="介紹三種產業應用案例&lt;div&gt;(文字會放在圖上)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="3630" y="7880" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="bI9pgnfDp93b7RxcfX7m-233" value="三張主視覺、分別介紹三種解決方案&lt;div&gt;1. HMI+CodeSys&lt;/div&gt;&lt;div&gt;(先只要一種、先用與主風格視覺圖片)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="3617" y="7480" width="323" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
