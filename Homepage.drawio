@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T04:02:33.418Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="7odW3HK6FO8PNOa6aUcd" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T04:03:36.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="E_FwkkJZ4geAzB7cOeQz" version="24.4.13" type="github">
   <diagram name="第1頁" id="r9fKtjtj9OdG-rjST6_f">
     <mxGraphModel dx="6077" dy="-4818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -839,6 +839,27 @@
         </mxCell>
         <mxCell id="boy8-Jg0He-iPRgUVyGb-247" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=0;strokeColor=#808080;" vertex="1" parent="boy8-Jg0He-iPRgUVyGb-163">
           <mxGeometry x="155.5" y="584.5" width="240" height="7" as="geometry" />
+        </mxCell>
+        <mxCell id="boy8-Jg0He-iPRgUVyGb-249" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;絕佳HMI圖控編輯與雲端數據管理解決方案&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3130" y="8849.32" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="boy8-Jg0He-iPRgUVyGb-250" value="全球網絡概念圖&lt;div&gt;引襖至經教商查詢頁面&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="2660" y="9513.5" width="210" height="93" as="geometry" />
+        </mxCell>
+        <mxCell id="boy8-Jg0He-iPRgUVyGb-251" value="說明公司的產品品質&lt;div&gt;有四種面向&lt;/div&gt;&lt;div&gt;1.原料檢驗&lt;/div&gt;&lt;div&gt;2.產品設計&lt;/div&gt;&lt;div&gt;3.系統可靠性&lt;/div&gt;&lt;div&gt;4.組裝生產&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="2670" y="9000" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="boy8-Jg0He-iPRgUVyGb-252" value="顯示最新新聞&lt;div&gt;關聯至新聞頁面&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="8570" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="boy8-Jg0He-iPRgUVyGb-253" value="說明一系列的應解決方案&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;我們提供完整的應用方案，&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;從人機&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;介面設計工具、設備&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;通訊、物聯網整合、遠程設備管理及事件推撥通知等&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="2680" y="8190" width="390" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="boy8-Jg0He-iPRgUVyGb-254" value="介紹三種產業應用案例&lt;div&gt;(文字會放在圖上)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="2690" y="7850" width="210" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="boy8-Jg0He-iPRgUVyGb-255" value="三張主視覺、分別介紹三種解決方案&lt;div&gt;1. HMI+CodeSys&lt;/div&gt;&lt;div&gt;(先只要一種、先用與主風格視覺圖片)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="2697" y="7440" width="323" height="210" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
