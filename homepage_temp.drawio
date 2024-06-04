@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T06:23:29.153Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0P7lDkvQWwju6fm9ROm8" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T06:27:17.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PqtyYqn7UYYiH2kmlU8v" version="24.4.13" type="github">
   <diagram name="第1頁" id="cNLtOcgkNV1Ns_6ymJjR">
-    <mxGraphModel dx="1221" dy="-5641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="263" dy="-6099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,25 +59,25 @@
           <mxGeometry x="181.20809925093636" y="28.5" width="439.75187265917606" height="105" as="geometry" />
         </mxCell>
         <mxCell id="5PI5-z5J4yYWzpDtkafK-23" value="&lt;span style=&quot;color: rgb(179, 179, 179);&quot;&gt;&lt;font style=&quot;font-size: 36px;&quot;&gt;Image&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#EDEDED;" parent="5PI5-z5J4yYWzpDtkafK-21" vertex="1">
-          <mxGeometry x="120.55" y="118.5" width="419.45" height="331.5" as="geometry" />
-        </mxCell>
-        <mxCell id="5PI5-z5J4yYWzpDtkafK-24" value="&lt;span style=&quot;color: rgb(179, 179, 179); font-size: 36px;&quot;&gt;Image&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#EDEDED;" parent="5PI5-z5J4yYWzpDtkafK-21" vertex="1">
-          <mxGeometry x="599.5" y="119.25" width="410.5" height="330.75" as="geometry" />
+          <mxGeometry x="139.5" y="118.5" width="434.98" height="331.5" as="geometry" />
         </mxCell>
         <mxCell id="5PI5-z5J4yYWzpDtkafK-25" value="&lt;span style=&quot;color: rgb(179, 179, 179); font-size: 36px;&quot;&gt;Image&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#EDEDED;" parent="5PI5-z5J4yYWzpDtkafK-21" vertex="1">
-          <mxGeometry x="1079.5" y="119.25" width="430.5" height="330.75" as="geometry" />
+          <mxGeometry x="1069.5" y="119.25" width="430.5" height="330.75" as="geometry" />
         </mxCell>
         <mxCell id="5PI5-z5J4yYWzpDtkafK-26" value="&lt;span style=&quot;font-family: Helvetica; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#808080&quot;&gt;&lt;span&gt;Data center immersion cooling solution&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=22;fontStyle=0" parent="5PI5-z5J4yYWzpDtkafK-21" vertex="1">
-          <mxGeometry x="210.28" y="370" width="240" height="53.83" as="geometry" />
-        </mxCell>
-        <mxCell id="5PI5-z5J4yYWzpDtkafK-27" value="&lt;span style=&quot;font-family: Helvetica; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Wastewater treatment applications&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=22;fontColor=#808080;fontStyle=0" parent="5PI5-z5J4yYWzpDtkafK-21" vertex="1">
-          <mxGeometry x="689.75" y="370" width="230" height="53.83" as="geometry" />
+          <mxGeometry x="236.99" y="370" width="240" height="53.83" as="geometry" />
         </mxCell>
         <mxCell id="5PI5-z5J4yYWzpDtkafK-28" value="&lt;span style=&quot;font-family: Helvetica; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Factory equipment monitoring application&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=22;fontColor=#808080;" parent="5PI5-z5J4yYWzpDtkafK-21" vertex="1">
-          <mxGeometry x="1199.5" y="370" width="221.58" height="53.83" as="geometry" />
+          <mxGeometry x="1173.96" y="370" width="221.58" height="53.83" as="geometry" />
         </mxCell>
         <mxCell id="eqUQX8Xyx1qoO2t9peJb-1" value="" style="shape=line;html=1;shadow=0;dashed=0;strokeColor=#CED4DA;gradientColor=inherit;fontColor=inherit;fillColor=#E9ECEF;rSize=5;perimeter=none;whiteSpace=wrap;resizeHeight=1;fontSize=14;align=left;spacing=2;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;spacingTop=10;" vertex="1" parent="5PI5-z5J4yYWzpDtkafK-21">
           <mxGeometry x="181.20742990654207" y="78.04517066725384" width="1133.7728971962615" height="5.9072891433604875" as="geometry" />
+        </mxCell>
+        <mxCell id="eqUQX8Xyx1qoO2t9peJb-16" value="&lt;span style=&quot;color: rgb(179, 179, 179); font-size: 36px;&quot;&gt;Image&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#EDEDED;" vertex="1" parent="5PI5-z5J4yYWzpDtkafK-21">
+          <mxGeometry x="609.5" y="118.5" width="430.5" height="330.75" as="geometry" />
+        </mxCell>
+        <mxCell id="5PI5-z5J4yYWzpDtkafK-27" value="&lt;span style=&quot;font-family: Helvetica; font-size: 22px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Wastewater treatment applications&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontSize=22;fontColor=#808080;fontStyle=0" parent="5PI5-z5J4yYWzpDtkafK-21" vertex="1">
+          <mxGeometry x="729.5" y="370" width="230" height="53.83" as="geometry" />
         </mxCell>
         <mxCell id="5PI5-z5J4yYWzpDtkafK-32" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#F7F7F7;fontColor=#000000;" parent="5PI5-z5J4yYWzpDtkafK-1" vertex="1">
           <mxGeometry x="0.75" y="2470" width="1620" height="650" as="geometry" />
