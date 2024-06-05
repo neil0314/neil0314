@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T03:16:33.791Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="1uRP8ieYeUftIfnwyN7t" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T03:17:44.626Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="sw6UgRagSZI5BkxFVDQ3" version="24.4.13" type="github">
   <diagram name="第1頁" id="cNLtOcgkNV1Ns_6ymJjR">
     <mxGraphModel dx="646" dy="-5916" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -126,7 +126,7 @@
           <mxGeometry x="180" y="225.79" width="400" height="240" as="geometry" />
         </mxCell>
         <mxCell id="eqUQX8Xyx1qoO2t9peJb-51" value="&lt;span style=&quot;color: rgb(179, 179, 179);&quot;&gt;&lt;font style=&quot;font-size: 29px;&quot;&gt;Image&lt;/font&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.leftButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#ededed;strokeColor=#DFDFDF;fontColor=#DEE2E6;resizeWidth=1;fontSize=18;" vertex="1" parent="eqUQX8Xyx1qoO2t9peJb-50">
-          <mxGeometry width="141.66666666666666" height="240" relative="1" as="geometry" />
+          <mxGeometry width="160" height="240" relative="1" as="geometry" />
         </mxCell>
         <mxCell id="eqUQX8Xyx1qoO2t9peJb-52" value="&lt;font face=&quot;sans-serif&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;Industrial IoT&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;sans-serif&quot;&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(153, 153, 153); text-align: center; font-size: 19px;&quot;&gt;MQTT:&lt;/span&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(153, 153, 153); text-align: center;&quot;&gt;&amp;nbsp; AWS、Azure&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(153, 153, 153); text-align: center;&quot;&gt;&amp;nbsp; Sparkplug B&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgb(153, 153, 153); text-align: center;&quot;&gt;OPC UA&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(153, 153, 153); text-align: center;&quot;&gt;SQL&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#000000;verticalAlign=top;align=left;spacing=20;fontSize=14;spacingLeft=170;" vertex="1" parent="5PI5-z5J4yYWzpDtkafK-38">
           <mxGeometry x="605" y="225.79" width="400" height="240" as="geometry" />
