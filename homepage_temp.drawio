@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T03:40:07.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GLuPXQmTl5mH1WhZ2RrE" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T03:42:01.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="H4anoEhztkrQY8hji7kU" version="24.4.13" type="github">
   <diagram name="第1頁" id="cNLtOcgkNV1Ns_6ymJjR">
     <mxGraphModel dx="263" dy="-6099" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,13 +335,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="eqUQX8Xyx1qoO2t9peJb-101" value="全球網絡概念圖&lt;div&gt;引導至經銷商頁面&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="10160" width="210" height="93" as="geometry" />
+          <mxGeometry x="3332" y="10170" width="210" height="93" as="geometry" />
         </mxCell>
         <mxCell id="eqUQX8Xyx1qoO2t9peJb-102" value="說明公司的產品品質&lt;div&gt;有四種面向&lt;/div&gt;&lt;div&gt;1.原料檢驗&lt;/div&gt;&lt;div&gt;2.產品設計&lt;/div&gt;&lt;div&gt;3.系統可靠性&lt;/div&gt;&lt;div&gt;4.組裝生產&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="9520" width="210" height="210" as="geometry" />
+          <mxGeometry x="3332" y="9490" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="eqUQX8Xyx1qoO2t9peJb-103" value="顯示最新新聞&lt;div&gt;關聯至新聞頁面&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="3350" y="9030" width="210" height="210" as="geometry" />
+          <mxGeometry x="3332" y="9030" width="210" height="210" as="geometry" />
         </mxCell>
         <mxCell id="eqUQX8Xyx1qoO2t9peJb-104" value="說明一套應用方案&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;提供完整的應用方案，&lt;/span&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;從人機&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;介面設計工具、設備&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-size: 18px;&quot;&gt;通訊、物聯網整合、遠程設備管理及事件推撥通知等&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="3332" y="8610" width="390" height="210" as="geometry" />
