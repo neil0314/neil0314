@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T09:06:57.827Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="peTlGBxNmPeLsZtNjOsE" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T09:16:33.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rdbG43udld583ZNQdln7" version="24.5.2" type="github">
   <diagram name="第1頁" id="1_Itgkwhxsi6Gp2qj_NC">
-    <mxGraphModel dx="331" dy="-6166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="189" dy="-6227" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,7 +106,7 @@
           <mxGeometry x="84" y="340" width="628" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-50" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#B3B3B3;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#6C767D;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=0;textShadow=1;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
-          <mxGeometry x="140" y="980" width="430" height="520" as="geometry" />
+          <mxGeometry x="140" y="1030" width="430" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-59" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;Our HMI supports more than 400 controllers, seamlessly integrates all major PLC brands, and supports various brands’ &lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#7ea6e0&quot;&gt;Symbolic Addressing&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt; communication protocols.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-50">
           <mxGeometry x="10.700510140599727" y="351.5492957746479" width="419.2994898594003" height="65.91549295774648" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry x="140" y="3460" width="1296.4" height="511" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-62" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#B3B3B3;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#6C767D;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=0;textShadow=1;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
-          <mxGeometry x="620" y="980" width="430" height="520" as="geometry" />
+          <mxGeometry x="620" y="1030" width="430" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-64" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;CODESYS is a product that integrates high-performance cMT / cMT X Series HMI with &lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#7ea6e0&quot;&gt;CODESYS PLC controller&lt;/font&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt; system.&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;color: rgb(102, 102, 102); font-family: Ubuntu, Arial, sans-serif; background-color: rgb(255, 255, 255);&quot;&gt;compliance with IEC61131-3 supports multiple languages such as FBD/LD/IL/ST/SFC/CFC&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-62">
           <mxGeometry x="10.700510140599729" y="351.5492957746479" width="419.2994898594003" height="80.56338028169013" as="geometry" />
@@ -146,8 +146,8 @@
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-70" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.357;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="MBdddqSMgpMfSsWzxYYn-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-0.5" y="1570" as="sourcePoint" />
-            <mxPoint x="1637.5" y="1570" as="targetPoint" />
+            <mxPoint x="-0.5" y="1610" as="sourcePoint" />
+            <mxPoint x="1637.5" y="1610" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-72" value="EasyBuilder Pro" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
@@ -163,7 +163,7 @@
           <mxGeometry x="60" y="480" width="560" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-96" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#B3B3B3;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#6C767D;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=0;textShadow=1;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
-          <mxGeometry x="1090" y="980" width="430" height="520" as="geometry" />
+          <mxGeometry x="1090" y="1030" width="430" height="520" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-97" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;&quot; color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Supports OPC UA, MQTT and Sparkplug communication, and can also be used as OPC UA Server, SQL Server and integrate with AWS and Azure cloud platforms&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-96">
           <mxGeometry x="10.700510140599729" y="339.99929577464786" width="419.2994898594003" height="80.56338028169013" as="geometry" />
@@ -194,6 +194,15 @@
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-123" value="&lt;ul style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;forced-color-adjust: none; font-size: 18px;&quot;&gt;Multi-level security mechanism&lt;span style=&quot;forced-color-adjust: none; background-color: initial; font-size: 15px;&quot;&gt;&amp;nbsp;(從物件、通訊SSL、IIOT)&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;forced-color-adjust: none; font-size: 18px;&quot;&gt;Development project debugging tools&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
           <mxGeometry x="155" y="2310" width="500" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MBdddqSMgpMfSsWzxYYn-124" value="&lt;font face=&quot;Oswald&quot; style=&quot;font-size: 23px;&quot;&gt;&lt;font style=&quot;color: rgb(102, 102, 102); font-size: 23px;&quot;&gt;Communication&lt;/font&gt; &lt;font color=&quot;#b3b3b3&quot;&gt;&lt;font style=&quot;font-size: 23px;&quot;&gt;and&lt;/font&gt;&amp;nbsp;&lt;/font&gt;&lt;font style=&quot;color: rgb(102, 102, 102); font-size: 23px;&quot;&gt;Drive&lt;/font&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
+          <mxGeometry x="140" y="960" width="305" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MBdddqSMgpMfSsWzxYYn-125" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#7EA6E0;" edge="1" parent="MBdddqSMgpMfSsWzxYYn-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="142" y="1000" as="sourcePoint" />
+            <mxPoint x="353" y="1000" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
