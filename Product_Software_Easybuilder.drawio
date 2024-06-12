@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T09:41:52.193Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="_MoqLnvdrNSTrRUqt9YG" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T09:43:51.892Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="aN-bBxeiFMgz9MxhXdZY" version="24.5.2" type="github">
   <diagram name="第1頁" id="1_Itgkwhxsi6Gp2qj_NC">
     <mxGraphModel dx="381" dy="-6105" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -238,7 +238,7 @@
           <mxGeometry x="140" y="976" width="840" height="54" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-197" value="&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;background-color: initial; color: rgb(102, 102, 102); font-family: Oswald;&quot;&gt;cMT Viewer&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;Connect and control cMT/cMT X-Series HMI, features include:&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;Only changing data is transmitted to save bandwidth.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;Quick response operation interface.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;Switch the monitoring target HMI at any time.&lt;/font&gt;&lt;/li&gt;&lt;li&gt;&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;Multiple people can operate without interfering with each other.&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Oswald&quot; face=&quot;Oswald&quot; style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;VNC&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;View and operate HMI screens simultaneously.&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot; face=&quot;sans-senrif&quot; color=&quot;#666666&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Oswald&quot; face=&quot;Oswald&quot; style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;WebView&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 14px;&quot; color=&quot;#666666&quot;&gt;The VNC function can be used through the browser.&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
-          <mxGeometry x="800" y="3040" width="670" height="240" as="geometry" />
+          <mxGeometry x="810" y="3020" width="670" height="240" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-198" value="&lt;h2&gt;&lt;font style=&quot;font-size: 26px; font-weight: normal;&quot; color=&quot;#7ea6e0&quot; face=&quot;Oswald&quot;&gt;Remoe Application&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
           <mxGeometry x="160" y="2910" width="305" height="30" as="geometry" />
@@ -273,7 +273,7 @@
           <mxGeometry y="50.00333333333334" width="226.1904761904762" height="54.43439795555861" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-229" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D4D4D4;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
-          <mxGeometry x="1060" y="3300" width="230" height="180" as="geometry" />
+          <mxGeometry x="1070" y="3270" width="230" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-230" value="&lt;span style=&quot;color: rgb(102, 102, 102);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=sans-senrif&quot; style=&quot;font-size: 19px;&quot;&gt;cMT Viewer&lt;/font&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#F8F9FA;fontColor=#6C767D;resizeWidth=1;fontSize=18;align=center;spacing=20;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-229">
           <mxGeometry width="230" height="50" relative="1" as="geometry">
@@ -287,7 +287,7 @@
           <mxGeometry width="230" height="71.25" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-232" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D4D4D4;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
-          <mxGeometry x="800" y="3300" width="240" height="180" as="geometry" />
+          <mxGeometry x="810" y="3270" width="240" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-233" value="&lt;span style=&quot;color: rgb(102, 102, 102);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=sans-senrif&quot; style=&quot;font-size: 19px;&quot;&gt;VNC&lt;/font&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#F8F9FA;fontColor=#6C767D;resizeWidth=1;fontSize=18;align=center;spacing=20;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-232">
           <mxGeometry width="240" height="50" relative="1" as="geometry">
@@ -318,7 +318,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-235" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D4D4D4;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
-          <mxGeometry x="1310" y="3300" width="230" height="170" as="geometry" />
+          <mxGeometry x="1320" y="3270" width="230" height="170" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-236" value="&lt;span style=&quot;color: rgb(102, 102, 102);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=sans-senrif&quot; style=&quot;font-size: 19px;&quot;&gt;cMT Viewer&lt;/font&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#F8F9FA;fontColor=#6C767D;resizeWidth=1;fontSize=18;align=center;spacing=20;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-235">
           <mxGeometry width="230" height="60" relative="1" as="geometry">
