@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T01:55:24.509Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="Bh5beaJErEtRKkxba5Us" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T02:03:37.753Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="P2h-z7ozIGN-yzvAZt7k" version="24.5.2" type="github">
   <diagram name="第1頁" id="1_Itgkwhxsi6Gp2qj_NC">
-    <mxGraphModel dx="833" dy="-5903" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="68" dy="-6245" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -261,8 +261,8 @@
             <mxPoint x="460" y="2950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MBdddqSMgpMfSsWzxYYn-200" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;We provide a variety of remote access tools to operate HMI or PLC management&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
-          <mxGeometry x="158" y="2960" width="652" height="83" as="geometry" />
+        <mxCell id="MBdddqSMgpMfSsWzxYYn-200" value="&lt;div&gt;&lt;div&gt;&lt;font color=&quot;#b3b3b3&quot;&gt;&lt;span style=&quot;font-size: 18px;&quot;&gt;We provide a series of remote tools to easily handle comprehensive maintenance and management.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-1">
+          <mxGeometry x="158" y="2960" width="912" height="83" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-202" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=3;strokeColor=#E6E6E6;entryX=0.685;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="MBdddqSMgpMfSsWzxYYn-1" target="MBdddqSMgpMfSsWzxYYn-196">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
