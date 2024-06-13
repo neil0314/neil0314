@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-13T03:29:59.976Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="PB0sqsgS6bbph7FJKiav" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-13T03:38:15.966Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="ZOlqBvH87uN4L9_S1BLB" version="24.5.2" type="github">
   <diagram name="第1頁" id="1_Itgkwhxsi6Gp2qj_NC">
     <mxGraphModel dx="68" dy="-6339" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="MBdddqSMgpMfSsWzxYYn-173" value="&lt;ul style=&quot;box-sizing: border-box; list-style: none; padding: 0px; margin: 0px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;li style=&quot;box-sizing: border-box; position: relative; padding: 0px 0px 0px 23px;&quot;&gt;&lt;h3 style=&quot;box-sizing: border-box; font-weight: 400; line-height: 1.2; margin: 0px 0px 16px;&quot; class=&quot;text-lg mb-4&quot;&gt;&lt;font color=&quot;#222222&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Easy to Use Widget selection including Push Buttons, Switches, Action Buttons, Lamps, Numeric &amp;amp; Alphanumeric Options, Bars, Sliders, Meters, Charts, Message Displays, List boxes, and etc.&lt;/span&gt;&lt;/font&gt;&lt;/h3&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-130">
           <mxGeometry x="245.48192771084337" y="230" width="255.3012048192771" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="MBdddqSMgpMfSsWzxYYn-174" value="&#xa;Our design integrates powerful object design functions, Combo Button, Action Trigger, EventBar Chart, and BACnet scheduling, etc. to easily create interfaces and control functions" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-130">
+        <mxCell id="MBdddqSMgpMfSsWzxYYn-174" value="&#xa;Integrates powerful object design functions, Combo Button, Action Trigger, EventBar Chart, and BACnet scheduling, etc. to easily create interfaces and control functions" style="text;whiteSpace=wrap;fontSize=14;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-130">
           <mxGeometry x="269.12048192771084" y="442" width="225.8433734939759" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-179" value="&#xa;Customize application designs e.g. access data,  logical judgments and numerical calculations, and controlling object behavior and appearance." style="text;whiteSpace=wrap;fontSize=15;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-130">
@@ -46,8 +46,8 @@
         <mxCell id="MBdddqSMgpMfSsWzxYYn-251" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Widget&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-130">
           <mxGeometry x="270" y="210" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="MBdddqSMgpMfSsWzxYYn-252" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Action &amp;amp;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-130">
-          <mxGeometry x="270" y="440" width="130" height="30" as="geometry" />
+        <mxCell id="MBdddqSMgpMfSsWzxYYn-252" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Visual process programming&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-130">
+          <mxGeometry x="270" y="440" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-254" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;strokeColor=none;" vertex="1" parent="MBdddqSMgpMfSsWzxYYn-130">
           <mxGeometry x="510" y="190" width="640" height="370" as="geometry" />
