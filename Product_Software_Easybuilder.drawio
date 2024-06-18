@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-06-18T09:08:11.739Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ZGi-OV8EFXE2isi0O4Yd" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-18T09:12:14.841Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="7duOFA24YE1au1saeVRN" version="24.5.5" type="github">
   <diagram name="第1頁" id="1_Itgkwhxsi6Gp2qj_NC">
-    <mxGraphModel dx="1631" dy="-5898" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1506" dy="-5580" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="MBdddqSMgpMfSsWzxYYn-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=none;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;spacing=0;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;fontFamily=sans-serif;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dsans-serif;opacity=90;" parent="1" vertex="1">
-          <mxGeometry x="1670" y="7020" width="1630" height="4570" as="geometry" />
+          <mxGeometry x="1740" y="7040" width="1630" height="4520" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-27" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#dbdbdc;" parent="MBdddqSMgpMfSsWzxYYn-1" vertex="1">
           <mxGeometry y="250" width="1630" height="540" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="798" y="-597.5" width="41" height="1614" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-10" value="" style="group" parent="MBdddqSMgpMfSsWzxYYn-1" connectable="0" vertex="1">
-          <mxGeometry y="4040" width="1629" height="530" as="geometry" />
+          <mxGeometry y="3990" width="1629" height="530" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-11" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#F7F7F7;" parent="MBdddqSMgpMfSsWzxYYn-10" vertex="1">
           <mxGeometry width="1629" height="530.0000000000001" as="geometry" />
@@ -124,7 +124,7 @@
           <mxGeometry x="160" y="2740" width="370" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-197" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font face=&quot;Helvetica&quot; color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;cMT Viewer provides a quick response operation interface, allowing multiple users to switch monitoring targets and operate&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#666666&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Using VNC for screen sync viewing&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MBdddqSMgpMfSsWzxYYn-1" vertex="1">
-          <mxGeometry x="851" y="3390" width="670" height="110" as="geometry" />
+          <mxGeometry x="851" y="3350" width="670" height="110" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-198" value="&lt;h2&gt;&lt;font style=&quot;font-weight: normal; font-size: 28px;&quot; color=&quot;#7ea6e0&quot; face=&quot;Oswald&quot;&gt;All-round Remoe Application&lt;/font&gt;&lt;/h2&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MBdddqSMgpMfSsWzxYYn-1" vertex="1">
           <mxGeometry x="181" y="3280" width="305" height="30" as="geometry" />
@@ -139,7 +139,7 @@
           <mxGeometry x="180" y="3330" width="912" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-223" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D4D4D4;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="MBdddqSMgpMfSsWzxYYn-1" vertex="1">
-          <mxGeometry x="181" y="3490" width="510" height="350" as="geometry" />
+          <mxGeometry x="180" y="3450" width="510" height="350" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-224" value="&lt;span style=&quot;color: rgb(102, 102, 102);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=sans-senrif&quot; style=&quot;font-size: 19px;&quot;&gt;PassThrough&lt;/font&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#F8F9FA;fontColor=#6C767D;resizeWidth=1;fontSize=18;align=center;spacing=20;" parent="MBdddqSMgpMfSsWzxYYn-223" vertex="1">
           <mxGeometry width="508.47457627118644" height="50" relative="1" as="geometry">
@@ -154,11 +154,11 @@
         </mxCell>
         <UserObject label="&lt;div style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; font-size: 14px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;Pass-through allows PLC editing software to directly upload, download and monitor programs to the PLC through HMI.&lt;/font&gt;&lt;br&gt;&lt;/div&gt;" id="MBdddqSMgpMfSsWzxYYn-247">
           <mxCell style="text;whiteSpace=wrap;html=1;" parent="MBdddqSMgpMfSsWzxYYn-1" vertex="1">
-            <mxGeometry x="181" y="3390" width="560" height="70" as="geometry" />
+            <mxGeometry x="181" y="3370" width="560" height="70" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-273" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#D4D4D4;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#212529;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;" parent="MBdddqSMgpMfSsWzxYYn-1" vertex="1">
-          <mxGeometry x="891" y="3490" width="510" height="350" as="geometry" />
+          <mxGeometry x="880" y="3450" width="510" height="350" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-274" value="&lt;span style=&quot;color: rgb(102, 102, 102);&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=sans-senrif&quot; style=&quot;font-size: 19px;&quot;&gt;cMT Viewer / VNC / Webview&lt;/font&gt;&lt;/span&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.topButton;rSize=5;perimeter=none;whiteSpace=wrap;fillColor=#F7F7F7;strokeColor=#F8F9FA;fontColor=#6C767D;resizeWidth=1;fontSize=18;align=center;spacing=20;" parent="MBdddqSMgpMfSsWzxYYn-273" vertex="1">
           <mxGeometry width="508.47457627118644" height="50" relative="1" as="geometry">
@@ -320,18 +320,18 @@
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-221" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;strokeColor=#666666;" parent="MBdddqSMgpMfSsWzxYYn-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint y="4040" as="sourcePoint" />
-            <mxPoint x="1630" y="4040" as="targetPoint" />
+            <mxPoint x="10" y="3990" as="sourcePoint" />
+            <mxPoint x="1640" y="3990" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-243" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#E6E6E6;fillColor=#E6E6E6;sketch=1;curveFitting=1;jiggle=2;" parent="MBdddqSMgpMfSsWzxYYn-1" vertex="1">
-          <mxGeometry y="3920" width="1630" height="120" as="geometry" />
+          <mxGeometry x="-10" y="3870" width="1630" height="120" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-244" value="&lt;div&gt;&lt;span style=&quot;font-size: 22px;&quot;&gt;More remote application solutions, please refer to Weincloud service&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MBdddqSMgpMfSsWzxYYn-1" vertex="1">
-          <mxGeometry x="350" y="3980" width="680" height="30" as="geometry" />
+          <mxGeometry x="350" y="3930" width="680" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-246" value="Check out" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#7EA6E0;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" parent="MBdddqSMgpMfSsWzxYYn-1" vertex="1">
-          <mxGeometry x="1030" y="3960" width="130" height="40" as="geometry" />
+          <mxGeometry x="1030" y="3910" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-130" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#DFDFDF;html=1;whiteSpace=wrap;fillColor=none;fontColor=#000000;verticalAlign=top;align=center;spacing=20;fontSize=14;" parent="MBdddqSMgpMfSsWzxYYn-1" vertex="1">
           <mxGeometry y="1990" width="1630" height="650" as="geometry" />
@@ -379,7 +379,7 @@
           <mxGeometry x="1140" y="196.52163897607184" width="152.66" height="93.5817328457485" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-78" value="&lt;div style=&quot;&quot;&gt;&lt;h5&gt;&lt;/h5&gt;&lt;h6&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;font-size: 18px;&quot;&gt;Over 400 controller communication protocols&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;font-size: 18px;&quot;&gt;CODESYS and&amp;nbsp; Remote I/O&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;font-size: 18px;&quot;&gt;Industry IoT communication&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;font-size: 18px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Easy HMI configuration design tool&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;font-size: 18px;&quot;&gt;Project debugging tools&lt;/li&gt;&lt;/ul&gt;&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;font-size: 18px;&quot;&gt;All-ronud Remote access&lt;/li&gt;&lt;/ul&gt;&lt;/h6&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1690" y="11800" width="560" height="230" as="geometry" />
+          <mxGeometry x="1730" y="11770" width="560" height="230" as="geometry" />
         </mxCell>
         <mxCell id="MBdddqSMgpMfSsWzxYYn-62" value="&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#B3B3B3;html=1;whiteSpace=wrap;fillColor=#ffffff;fontColor=#6C767D;verticalAlign=bottom;align=left;spacing=20;spacingBottom=0;fontSize=14;spacingTop=0;textShadow=1;" parent="1" vertex="1">
           <mxGeometry x="2300" y="11780" width="810" height="520" as="geometry" />
