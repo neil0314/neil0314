@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-11T02:33:58.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0Drcvwuse7UkUfQjtnI9" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-11T02:35:41.468Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="C5-8UwEpekM0U1hDIlFS" version="24.6.4" type="github">
   <diagram name="第1頁" id="_yHifDseP5hPPt5Zp60_">
-    <mxGraphModel dx="1148" dy="-6327" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1543" dy="-6190" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -50,7 +50,7 @@
           <mxGeometry x="578" y="376.07" width="750" height="100" as="geometry" />
         </mxCell>
         <mxCell id="je9A02naRRreA3vqe4CB-90" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0771ed;opacity=70;aspect=fixed;" parent="je9A02naRRreA3vqe4CB-1" vertex="1">
-          <mxGeometry x="499.88" y="691" width="28" height="28" as="geometry" />
+          <mxGeometry x="499.88" y="700" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="je9A02naRRreA3vqe4CB-36" value="&lt;h5 class=&quot;the-title uk-scrollspy-inview uk-animation-slide-bottom&quot; style=&quot;margin: 0px 0px 20px; font-weight: 400; text-transform: none; font-size: 24px; line-height: 1.6; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: 0px 0px; animation-duration: 0.5s; animation-timing-function: ease-out; animation-fill-mode: both; animation-name: uk-fade-bottom; box-sizing: border-box; text-align: left; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font color=&quot;#666666&quot; style=&quot;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Oswald&quot; face=&quot;Oswald&quot;&gt;International operation center&lt;/font&gt;&lt;/h5&gt;" style="text;whiteSpace=wrap;html=1;" parent="je9A02naRRreA3vqe4CB-1" vertex="1">
           <mxGeometry x="543.64" y="680" width="371.24" height="47" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry x="298" y="346.07" width="240" height="140" as="geometry" />
         </mxCell>
         <mxCell id="FtehqA7BdFVMDSikeEsN-22" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#0771ed;opacity=70;aspect=fixed;" vertex="1" parent="je9A02naRRreA3vqe4CB-1">
-          <mxGeometry x="499.88" y="1041" width="28" height="28" as="geometry" />
+          <mxGeometry x="499.88" y="1057" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="FtehqA7BdFVMDSikeEsN-24" value="&lt;h5 class=&quot;the-title uk-scrollspy-inview uk-animation-slide-bottom&quot; style=&quot;margin: 0px 0px 20px; font-weight: 400; color: rgb(51, 51, 51); text-transform: none; font-size: 24px; line-height: 1.6; padding: 0px; border: 0px; outline: 0px; vertical-align: baseline; background: 0px 0px; animation-duration: 0.5s; animation-timing-function: ease-out; animation-fill-mode: both; animation-name: uk-fade-bottom; box-sizing: border-box; text-align: left; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-indent: 0px; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Oswald&quot; face=&quot;Oswald&quot;&gt;Branch Office&lt;/font&gt;&lt;/h5&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="je9A02naRRreA3vqe4CB-1">
-          <mxGeometry x="543.64" y="1030" width="121.24" height="47" as="geometry" />
+          <mxGeometry x="543.64" y="1040" width="121.24" height="47" as="geometry" />
         </mxCell>
         <mxCell id="FtehqA7BdFVMDSikeEsN-26" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#E8E8E8;opacity=80;" vertex="1" parent="je9A02naRRreA3vqe4CB-1">
           <mxGeometry x="-2" y="590" width="1630" height="40" as="geometry" />
