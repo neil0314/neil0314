@@ -145,7 +145,7 @@
         <mxCell id="dMJJ-qkzKofaWd4UM2zz-59" value="基礎教學：包括如何創建簡單的專案、使用模板物件等，適合初學者快速上手&#xa;&#xa;進階功能：介紹更複雜的應用功能和技巧，如 PLC 通訊、數據記錄、物聯網應用等" style="text;whiteSpace=wrap;fontSize=26;fontColor=#808080;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
           <mxGeometry x="900" y="600" width="670" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="dMJJ-qkzKofaWd4UM2zz-62" value="免責聲明：本頻道可能包含並非適用於每個應用程式的技術細節。客戶有責任查閱此處提供的建議。Weintek 致力於提供準確和最新的資訊，但不擔保或保證此處包含的任何資訊的準確性或可靠性。對於因使用這些影片中提供的資訊而導致的任何設備或連接系統的損壞，包括任何間接的、特殊的、偶然的或相應的損害，概不負責。" style="text;whiteSpace=wrap;fontSize=18;fontColor=#808080;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
+        <mxCell id="dMJJ-qkzKofaWd4UM2zz-62" value="免責聲明：本頻道可能包含並非適用於每個應用技術細節。客戶有責任查閱此處提供的建議。我們致力於提供準確和最新的資訊，但不擔保或保證此處包含的任何資訊的準確性或可靠性。對於因使用這些影片中提供的資訊而導致的任何設備或連接系統的損壞，包括任何間接的、特殊的、偶然的或相應的損害，概不負責。" style="text;whiteSpace=wrap;fontSize=18;fontColor=#808080;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
           <mxGeometry x="150" y="1760" width="1340" height="80" as="geometry" />
         </mxCell>
       </root>
