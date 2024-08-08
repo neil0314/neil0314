@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第1頁" id="swCSkqLlTPRmPDVqNkdO">
-    <mxGraphModel dx="1129" dy="-5889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="-6114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry x="1670" y="7020" width="1633.5" height="3330" as="geometry" />
         </mxCell>
         <mxCell id="dMJJ-qkzKofaWd4UM2zz-51" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f6f5fb;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
-          <mxGeometry y="970" width="810" height="460" as="geometry" />
+          <mxGeometry y="970" width="820" height="455" as="geometry" />
         </mxCell>
         <mxCell id="dMJJ-qkzKofaWd4UM2zz-2" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;1.0&amp;nbsp;&lt;/b&gt;&lt;/span&gt;" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -118,13 +118,13 @@
           <mxGeometry x="148.25" y="1070" width="620" height="200" as="geometry" />
         </mxCell>
         <mxCell id="dMJJ-qkzKofaWd4UM2zz-48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f6f5fb;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
-          <mxGeometry x="1.75" y="1580" width="1630" height="210" as="geometry" />
+          <mxGeometry x="1" y="1440" width="1630" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="dMJJ-qkzKofaWd4UM2zz-49" value="&lt;h2 class=&quot;h4&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.75rem; line-height: 1.2; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 32px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Oswald&quot; face=&quot;Oswald&quot;&gt;Tutorials download&lt;/font&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
-          <mxGeometry x="220" y="1660" width="450" height="70" as="geometry" />
+        <mxCell id="dMJJ-qkzKofaWd4UM2zz-49" value="&lt;h2 class=&quot;h4&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.75rem; line-height: 1.2; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;&lt;font style=&quot;font-weight: normal; font-size: 32px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Oswald&quot; face=&quot;Oswald&quot;&gt;Video download&lt;/font&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
+          <mxGeometry x="217.25" y="1520" width="450" height="70" as="geometry" />
         </mxCell>
         <mxCell id="dMJJ-qkzKofaWd4UM2zz-50" value="&lt;font style=&quot;font-size: 28px;&quot;&gt;如果您需要下載影片或無法透過Youtube觀看影片，可直接在此下載影片檔&lt;br&gt;&lt;br&gt;請按以下連結&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
-          <mxGeometry x="500" y="1660" width="930" height="80" as="geometry" />
+          <mxGeometry x="497.25" y="1520" width="930" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dMJJ-qkzKofaWd4UM2zz-52" value="View full playlist" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
           <mxGeometry x="150" y="1290" width="150" height="40" as="geometry" />
@@ -132,7 +132,7 @@
         <mxCell id="dMJJ-qkzKofaWd4UM2zz-53" value="View full playlist" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
           <mxGeometry x="890" y="850" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dMJJ-qkzKofaWd4UM2zz-27" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;We provide a series of project design techniques and application methods through video implementation to help you improve productivity. Including communication usage, IIoT data application, object design skills, etc.&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
+        <mxCell id="dMJJ-qkzKofaWd4UM2zz-27" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;我們提供一系列影片教學，每個教學單元都針對不同應用進行詳細說明，涵蓋了通訊使用、IIoT資料應用、以及物件設計技巧等多方面。透過我們一系列的應用教學，協助您提升專案開發效率和生產力。&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
           <mxGeometry x="770" y="345" width="600" height="100" as="geometry" />
         </mxCell>
       </root>
