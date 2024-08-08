@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第1頁" id="swCSkqLlTPRmPDVqNkdO">
-    <mxGraphModel dx="1129" dy="-5889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1129" dy="-5889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -111,7 +111,7 @@
         <mxCell id="dMJJ-qkzKofaWd4UM2zz-34" value="" style="dashed=0;outlineConnect=0;html=1;align=center;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;shape=mxgraph.weblogos.youtube;fillColor=#FF2626;gradientColor=#B5171F" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
           <mxGeometry x="600" y="373.55" width="120" height="42.9" as="geometry" />
         </mxCell>
-        <mxCell id="dMJJ-qkzKofaWd4UM2zz-47" value="&lt;h2 class=&quot;h4&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.75rem; line-height: 1.2; font-size: 26px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot; color=&quot;#808080&quot;&gt;基礎教學：包括了Easyaccess2.0概念，如何連接遠端HMI並添加至Direct、分配用戶與權限設定&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;&lt;h2 class=&quot;h4&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.75rem; line-height: 1.2; font-size: 26px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot; color=&quot;#808080&quot;&gt;進階功能：Direct管理、用戶權限設定和穿透通訊等。Dashboard的Widget設計工具使用、數據配置到進階的多用戶協作與管理。幫助您建構數據可視化並實現遠程監控&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
+        <mxCell id="dMJJ-qkzKofaWd4UM2zz-47" value="&lt;h2 class=&quot;h4&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.75rem; line-height: 1.2; font-size: 26px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot; color=&quot;#808080&quot;&gt;基礎教學：包括了Easyaccess2.0概念，如何連接遠端HMI並添加至Direct、分配用戶與權限設定&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;&lt;h2 class=&quot;h4&quot; style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 0.75rem; line-height: 1.2; font-size: 26px;&quot;&gt;&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font style=&quot;font-size: 26px;&quot; color=&quot;#808080&quot;&gt;進階功能：Direct管理方式，Dashboard的Widget設計工具使用、數據配置到進階的多用戶協作與管理。實現遠程設備數據可視化監控&lt;/font&gt;&lt;/span&gt;&lt;/h2&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
           <mxGeometry x="132.25" y="1080" width="620" height="200" as="geometry" />
         </mxCell>
         <mxCell id="dMJJ-qkzKofaWd4UM2zz-48" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f6f5fb;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
