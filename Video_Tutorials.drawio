@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第1頁" id="swCSkqLlTPRmPDVqNkdO">
-    <mxGraphModel dx="1129" dy="-5889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="572" dy="-6114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,7 +129,7 @@
         <mxCell id="dMJJ-qkzKofaWd4UM2zz-53" value="View full playlist" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
           <mxGeometry x="910" y="850" width="150" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dMJJ-qkzKofaWd4UM2zz-27" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;我們提供一系列影片教學，每個教學單元都針對不同應用進行詳細說明，涵蓋了通訊使用、IIoT資料應用、以及物件設計技巧等多方面。透過我們一系列的應用教學，協助您提升專案開發效率和生產力。&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
+        <mxCell id="dMJJ-qkzKofaWd4UM2zz-27" value="&lt;font color=&quot;#333333&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;我們提供一系列應用教學影片，教學單元涵蓋了通訊使用、物聯網應用、物件設計技巧等多方面。透過我們一系列的應用教學，協助您專案開發效率及提升生產力。&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="dMJJ-qkzKofaWd4UM2zz-1">
           <mxGeometry x="770" y="345" width="600" height="100" as="geometry" />
         </mxCell>
         <UserObject label="&lt;h2 class=&quot;h4&quot; style=&quot;forced-color-adjust: none; color: rgb(0, 0, 0); font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; box-sizing: border-box; margin-top: 0px; margin-bottom: 0.75rem; line-height: 1.2;&quot;&gt;&lt;font face=&quot;Oswald&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Oswald&quot; style=&quot;forced-color-adjust: none; font-weight: normal; font-size: 32px;&quot;&gt;Tutorials for Weincloud&lt;/font&gt;&lt;/h2&gt;" id="dMJJ-qkzKofaWd4UM2zz-57">
