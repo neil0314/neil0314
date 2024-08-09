@@ -1,11 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="第1頁" id="2OdnaiDMRBFXb3-FvodU">
-    <mxGraphModel dx="457" dy="-6074" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="819" dy="-6014" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="mrFsb7Rqw7x-DfA_wn0o-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=none;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;spacing=0;fillColor=none;labelBackgroundColor=none;labelBorderColor=none;fontFamily=sans-serif;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3Dsans-serif;" parent="1" vertex="1">
-          <mxGeometry x="1670" y="7020" width="1633.5" height="1940" as="geometry" />
+          <mxGeometry x="1670" y="7020" width="1630" height="1940" as="geometry" />
         </mxCell>
         <mxCell id="mrFsb7Rqw7x-DfA_wn0o-24" value="&lt;div style=&quot;text-align: center;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=default;" parent="mrFsb7Rqw7x-DfA_wn0o-1" vertex="1">
           <mxGeometry y="242.14" width="1629" height="1137.86" as="geometry" />
@@ -204,14 +204,17 @@
             <mxPoint x="92" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="uhWeMpG5Ywx4HhtyIJL1-64" value="&lt;ol style=&quot;font-size: 18px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;General Inquiry及&lt;/font&gt;&lt;span style=&quot;&quot;&gt;Report Vulnerabilities&lt;br&gt;&lt;/span&gt;分別對應以下兩個表單&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;Service request 目前沒有表單，只要一個空白內容頁即可&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="mrFsb7Rqw7x-DfA_wn0o-1" vertex="1">
+          <mxGeometry x="1150" y="360" width="430" height="120" as="geometry" />
+        </mxCell>
         <mxCell id="mrFsb7Rqw7x-DfA_wn0o-93" value="&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Myriad, Arial, sans-serif, &amp;quot;Microsoft Jhenghei&amp;quot;, 微軟正黑體; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;Weintek takes security concerns and vulnerabilities seriously. If you believe that you have found a security issue related to Weintek products, please submit a security report to our security team.&lt;/span&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(51, 51, 51); font-family: Myriad, Arial, sans-serif, &amp;quot;Microsoft Jhenghei&amp;quot;, 微軟正黑體; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br style=&quot;box-sizing: border-box; color: rgb(51, 51, 51); font-family: Myriad, Arial, sans-serif, &amp;quot;Microsoft Jhenghei&amp;quot;, 微軟正黑體; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Myriad, Arial, sans-serif, &amp;quot;Microsoft Jhenghei&amp;quot;, 微軟正黑體; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;Please only report security issues via this form. For technical questions regarding product usage, please use the&amp;nbsp;&lt;/span&gt;&lt;font color=&quot;#3333ff&quot;&gt;Service Request&lt;/font&gt;&lt;span style=&quot;color: rgb(51, 51, 51); font-family: Myriad, Arial, sans-serif, &amp;quot;Microsoft Jhenghei&amp;quot;, 微軟正黑體; font-size: 15px; background-color: rgb(255, 255, 255);&quot;&gt;&amp;nbsp;system.&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#999999;" parent="1" vertex="1">
-          <mxGeometry x="3722" y="7590" width="898" height="80" as="geometry" />
+          <mxGeometry x="3722" y="7570" width="898" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mrFsb7Rqw7x-DfA_wn0o-94" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;fillColor=#f6f5fb;" parent="1" vertex="1">
-          <mxGeometry x="3332" y="7710" width="1630" height="920" as="geometry" />
+          <mxGeometry x="3332" y="7670" width="1630" height="920" as="geometry" />
         </mxCell>
         <mxCell id="uhWeMpG5Ywx4HhtyIJL1-23" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;html=1;strokeColor=#C8C8C8;fillColor=#ffffff;whiteSpace=wrap;verticalAlign=top;align=left;fontSize=18;spacing=15;spacingTop=-5;" parent="1" vertex="1">
-          <mxGeometry x="3700" y="7820" width="862" height="670" as="geometry" />
+          <mxGeometry x="3690" y="7730" width="862" height="670" as="geometry" />
         </mxCell>
         <mxCell id="uhWeMpG5Ywx4HhtyIJL1-24" value="Sumbit" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;fillColor=#0085FC;strokeColor=none;fontColor=#FFFFFF;fontSize=14;" parent="uhWeMpG5Ywx4HhtyIJL1-23" vertex="1">
           <mxGeometry x="1" y="1" width="110" height="40" relative="1" as="geometry">
@@ -297,13 +300,11 @@
         <mxCell id="uhWeMpG5Ywx4HhtyIJL1-43" value="&lt;font color=&quot;#ff0000&quot; face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;*&amp;nbsp;&lt;/span&gt;&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="5130" y="7760" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="uhWeMpG5Ywx4HhtyIJL1-64" value="&lt;ol style=&quot;font-size: 18px;&quot;&gt;&lt;li&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;General Inquiry及&lt;/font&gt;&lt;span style=&quot;&quot;&gt;Report Vulnerabilities&lt;br&gt;&lt;/span&gt;分別對應以下兩個表單&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;&quot;&gt;(Service request 目前先保留按鈕，沒有表單)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=left;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="3443" y="7408" width="440" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="uhWeMpG5Ywx4HhtyIJL1-65" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;" parent="1" target="uhWeMpG5Ywx4HhtyIJL1-64" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="3350" y="7524" as="sourcePoint" />
+            <mxPoint x="2720" y="7500" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="2760" y="7524" />
               <mxPoint x="3330" y="7540" />
             </Array>
           </mxGeometry>
