@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第1頁" id="W3pXRcbvw8E6HqSJB5RY">
-    <mxGraphModel dx="221" dy="-6264" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="-47" dy="-6371" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -539,7 +539,7 @@
             <mxRectangle width="318" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-y5pfRFPHjwGwIgFImC-195" value="&lt;font face=&quot;Oswald&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;Driver Name&lt;/span&gt;&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#DEDEDE;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-192">
+        <mxCell id="U-y5pfRFPHjwGwIgFImC-195" value="&lt;font face=&quot;Oswald&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;Driver Type&lt;/span&gt;&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#DEDEDE;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-192">
           <mxGeometry x="769" width="253" height="59" as="geometry">
             <mxRectangle width="253" height="59" as="alternateBounds" />
           </mxGeometry>
@@ -671,14 +671,14 @@
             <mxRectangle width="100" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-y5pfRFPHjwGwIgFImC-240" value="&lt;font face=&quot;Oswald&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;Driver Name&lt;/span&gt;&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#DEDEDE;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-237">
-          <mxGeometry x="531" width="501" height="59" as="geometry">
-            <mxRectangle width="501" height="59" as="alternateBounds" />
+        <mxCell id="U-y5pfRFPHjwGwIgFImC-240" value="&lt;font face=&quot;Oswald&quot; color=&quot;#000000&quot;&gt;&lt;span style=&quot;font-size: 18px; font-weight: 400;&quot;&gt;Description&lt;/span&gt;&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#DEDEDE;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-237">
+          <mxGeometry x="531" width="511" height="59" as="geometry">
+            <mxRectangle width="511" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-241" value="&lt;span style=&quot;font-weight: normal;&quot;&gt;&lt;font color=&quot;#000000&quot; style=&quot;font-size: 18px;&quot; data-font-src=&quot;https://fonts.googleapis.com/css?family=Oswald&quot; face=&quot;Oswald&quot;&gt;Download&lt;/font&gt;&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=#DEDEDE;align=center;fontStyle=1;fontColor=#FFFFFF;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-237">
-          <mxGeometry x="1032" width="99" height="59" as="geometry">
-            <mxRectangle width="99" height="59" as="alternateBounds" />
+          <mxGeometry x="1042" width="89" height="59" as="geometry">
+            <mxRectangle width="89" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-242" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-236">
@@ -694,14 +694,14 @@
             <mxRectangle width="100" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-y5pfRFPHjwGwIgFImC-245" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;This demo project introduces how to use XY Plot object to display values&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-242">
-          <mxGeometry x="531" width="501" height="58" as="geometry">
-            <mxRectangle width="501" height="58" as="alternateBounds" />
+        <mxCell id="U-y5pfRFPHjwGwIgFImC-245" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;Demonstrates how to use Option List object to set the communication parameters of Modbus Server.Demonstrates how to use Option List object to set the communication parameters of Server.Demonstrates how to use Option List object to set the communication parameters o.object to set the communication 11&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-242">
+          <mxGeometry x="531" width="511" height="58" as="geometry">
+            <mxRectangle width="511" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-246" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-242">
-          <mxGeometry x="1032" width="99" height="58" as="geometry">
-            <mxRectangle width="99" height="58" as="alternateBounds" />
+          <mxGeometry x="1042" width="89" height="58" as="geometry">
+            <mxRectangle width="89" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-247" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-236">
@@ -717,14 +717,14 @@
             <mxRectangle width="100" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-y5pfRFPHjwGwIgFImC-250" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;This demo project explains how to use CODESYS EtherCAT Master.&lt;/font&gt;&lt;/span&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-247">
-          <mxGeometry x="531" width="501" height="59" as="geometry">
-            <mxRectangle width="501" height="59" as="alternateBounds" />
+        <mxCell id="U-y5pfRFPHjwGwIgFImC-250" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;Demonstrates how to use Option List object to set the communication parameters of Modbus Server.Demonstrates how to use Option List object to set the communication parameters of Server.Demonstrates how to use Option List object to set the communication parameters o.object to set the communication 11&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-247">
+          <mxGeometry x="531" width="511" height="59" as="geometry">
+            <mxRectangle width="511" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-251" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-247">
-          <mxGeometry x="1032" width="99" height="59" as="geometry">
-            <mxRectangle width="99" height="59" as="alternateBounds" />
+          <mxGeometry x="1042" width="89" height="59" as="geometry">
+            <mxRectangle width="89" height="59" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-252" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;strokeColor=inherit;fillColor=#ffffff;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-236">
@@ -740,14 +740,14 @@
             <mxRectangle width="100" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="U-y5pfRFPHjwGwIgFImC-255" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#808080&quot;&gt;Demonstrates how to use Option List object to set the communication parameters of Modbus Server.&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-252">
-          <mxGeometry x="531" width="501" height="58" as="geometry">
-            <mxRectangle width="501" height="58" as="alternateBounds" />
+        <mxCell id="U-y5pfRFPHjwGwIgFImC-255" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: rgb(128, 128, 128);&quot;&gt;Demonstrates how to use Option List object to set the communication parameters of Modbus Server.Demonstrates how to use Option List object to set the communication parameters of Server.Demonstrates how to use Option List object to set the communication parameters o.object to set the communication 11&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-252">
+          <mxGeometry x="531" width="511" height="58" as="geometry">
+            <mxRectangle width="511" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-256" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-252">
-          <mxGeometry x="1032" width="99" height="58" as="geometry">
-            <mxRectangle width="99" height="58" as="alternateBounds" />
+          <mxGeometry x="1042" width="89" height="58" as="geometry">
+            <mxRectangle width="89" height="58" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-257" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=#CED4DA;html=1;whiteSpace=wrap;fillColor=#FFFFFF;fontColor=#7D868C;align=left;spacingLeft=80;spacing=15;fontSize=14;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-1">
@@ -796,6 +796,9 @@
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-273" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Oswald; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: nowrap; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 22px;&quot;&gt;EasyBuilder&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-1">
           <mxGeometry x="458.65999999999985" y="589.9999999999997" width="250" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="U-y5pfRFPHjwGwIgFImC-274" value="&lt;font color=&quot;#ff0000&quot;&gt;fontszie: 12、300字&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-1">
+          <mxGeometry x="1130" y="2050" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
