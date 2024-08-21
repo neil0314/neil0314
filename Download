@@ -767,8 +767,8 @@
         <mxCell id="U-y5pfRFPHjwGwIgFImC-261" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;&amp;nbsp; &amp;nbsp; Altus Sistemas de Informatica S.A.&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-1">
           <mxGeometry x="630" y="1330.6" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U-y5pfRFPHjwGwIgFImC-262" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Barode/Keyboard (USB/COM)&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-1">
-          <mxGeometry x="1180" y="1330.6" width="290" height="30" as="geometry" />
+        <mxCell id="U-y5pfRFPHjwGwIgFImC-262" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Barod&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-1">
+          <mxGeometry x="1219.5" y="1330.6" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-263" value="&lt;span style=&quot;font-size: 14px; text-align: left;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;cMT3162X、cMT3152X&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-1">
           <mxGeometry x="680" y="940.6" width="290" height="30" as="geometry" />
