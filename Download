@@ -780,7 +780,7 @@
         <mxCell id="U-y5pfRFPHjwGwIgFImC-274" value="&lt;font color=&quot;#ff0000&quot;&gt;fontszie: 12、300字&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="U-y5pfRFPHjwGwIgFImC-1" vertex="1">
           <mxGeometry x="1130" y="2050" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="U-y5pfRFPHjwGwIgFImC-281" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Software對應左邊選項 : Easybulder Pro、CODESYS、EasyAccess、Other tools&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;SW獨立在DB規劃Table、並提供API進行Updatd dbx、SWDirect&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="U-y5pfRFPHjwGwIgFImC-1" vertex="1">
+        <mxCell id="U-y5pfRFPHjwGwIgFImC-281" value="&lt;ul&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;Software對應左邊選項 : Easybulder Pro、CODESYS、EasyAccess、Other tools&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#ff0000&quot;&gt;DB規劃獨立Table、提供API進行Updatd dbx、SWDirect&lt;/font&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="U-y5pfRFPHjwGwIgFImC-1" vertex="1">
           <mxGeometry x="670" y="598" width="670" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-282" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=#DEE2E6;fillColor=#ffffff;fontColor=#0085FC;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" parent="U-y5pfRFPHjwGwIgFImC-1" vertex="1">
@@ -819,7 +819,7 @@
         <mxCell id="U-y5pfRFPHjwGwIgFImC-298" value="&lt;font color=&quot;#808080&quot;&gt;MENU&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="U-y5pfRFPHjwGwIgFImC-1" vertex="1">
           <mxGeometry x="79" y="564" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tJGeGZUH5y_R85YOC4kw-1" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;參考EBPro做法&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-1">
+        <mxCell id="tJGeGZUH5y_R85YOC4kw-1" value="&lt;div style=&quot;&quot;&gt;&lt;ul&gt;&lt;li&gt;&lt;font color=&quot;#ff0000&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;參照EBPro在PLC選擇驅動方式&lt;/span&gt;&lt;/font&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="U-y5pfRFPHjwGwIgFImC-1">
           <mxGeometry x="720" y="1322.6000000000004" width="480" height="30" as="geometry" />
         </mxCell>
         <mxCell id="U-y5pfRFPHjwGwIgFImC-296" value="" style="endArrow=none;html=1;rounded=1;strokeWidth=2;curved=0;strokeColor=#808080;" parent="1" edge="1">
